@@ -8,3 +8,8 @@
 	url = https://github.com/simontrimborn/gofcopula
 	shallow = true
 	registered = true
+[submodule "IndexConstruction"]
+	path = IndexConstruction
+	url = https://github.com/cran/IndexConstruction
+	shallow = true
+	registered = true
