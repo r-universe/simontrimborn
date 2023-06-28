@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "gofCopula"]
 	path = gofCopula
 	url = https://github.com/simontrimborn/gofcopula
-	shallow = true
-	registered = true
 [submodule "IndexConstruction"]
 	path = IndexConstruction
 	url = https://github.com/cran/IndexConstruction
-	shallow = true
-	registered = true
