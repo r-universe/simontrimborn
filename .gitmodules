@@ -2,9 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "gofCopula"]
-	path = gofCopula
-	url = https://github.com/simontrimborn/gofcopula
 [submodule "IndexConstruction"]
 	path = IndexConstruction
 	url = https://github.com/cran/IndexConstruction
+[submodule "gofCopula"]
+	path = gofCopula
+	url = https://github.com/simontrimborn/gofcopula
