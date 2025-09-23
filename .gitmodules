@@ -5,6 +5,9 @@
 [submodule "IndexConstruction"]
 	path = IndexConstruction
 	url = https://github.com/cran/IndexConstruction
+[submodule "NetVAR"]
+	path = NetVAR
+	url = https://github.com/simontrimborn/netvar
 [submodule "gofCopula"]
 	path = gofCopula
 	url = https://github.com/simontrimborn/gofcopula
