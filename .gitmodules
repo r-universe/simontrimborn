@@ -4,7 +4,7 @@
 	branch = HEAD
 [submodule "IndexConstruction"]
 	path = IndexConstruction
-	url = https://github.com/cran/IndexConstruction
+	url = https://github.com/simontrimborn/indexconstruction
 [submodule "NetVAR"]
 	path = NetVAR
 	url = https://github.com/simontrimborn/netvar
